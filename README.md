@@ -44,4 +44,4 @@
 
 [![Github](https://img.shields.io/badge/Github.com/nlnhat28-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nlnhat28/)
 
-![Phone](https://img.shields.io/badge/0818627285-0077B5?style=for-the-badge&logo=zalo&logoColor=white)
+[![Phone](https://img.shields.io/badge/0818627285-0077B5?style=for-the-badge&logo=zalo&logoColor=white)](tel:0818627285)
