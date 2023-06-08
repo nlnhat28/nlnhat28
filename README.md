@@ -34,6 +34,7 @@
 <br/>
 
 # <img src="https://media2.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b9525r6vbczrrnrodfo7jq9agijtcg8e808uj10j8lr5&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="35px" height="35px"> Script <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 **Warning**
 > Copyright belongs to `nlnhat28`
 ```md
@@ -73,6 +74,7 @@
 <br/>
 
 # <img src="https://media2.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b9525r6vbczrrnrodfo7jq9agijtcg8e808uj10j8lr5&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="35px" height="35px"> Script <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 **Warning**
 > Copyright belongs to `nlnhat28`
 ```
