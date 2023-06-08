@@ -36,7 +36,7 @@
 
 <br/>
 
-# <img src="Assets/Images/earth.gif" width="34px" height="33px"> Contact <img src="Assets/Images/break-line.gif">
+# <img src="Assets/Images/earth.gif" width="34px" height="34px"> Contact <img src="Assets/Images/break-line.gif">
 
 [![Facebook](https://img.shields.io/badge/Facebook.com/nlnhat28-0068c9?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nlnhat28)
 
