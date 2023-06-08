@@ -1,6 +1,6 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Nguyen+Long+Nhat;I'm+a+Misa+Fresher;I'm+a+Web05's+member!"></p>
 
-# <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" height="35px"> Overview <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# <img src="Assets/Images/coding-animation.gif" width="35px" height="35px"> Overview <img src="Assets/Images/break-line.gif">
 
 * <img src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="21px"> : I'm from Haiduong, Vietnam
 * 🎒 : Learning IT at [HUST](https://hust.edu.vn/) (2018-now)
@@ -11,7 +11,7 @@
     
 <br/>
 
-# <img src="https://media2.giphy.com/media/dAoHbGjH7k5ZTeQeBI/200w.gif?cid=6c09b952hvbsqokzntqfjd5f0gqpxblslsm3ahi6je9l0qqb&ep=v1_gifs_search&rid=200w.gif&ct=s" width="35px" height="35px"> Skills <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# <img src="Assets/Images/bulb.gif" width="35px" height="35px"> Skills <img src="Assets/Images/break-line.gif">
 <img src="https://img.shields.io/badge/.NET-5d00ff?logo=csharp&logoColor=white" title="C# .NET" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Django-256da8?logo=python&logoColor=f5e105" title="Python Django" height="25"/> &nbsp;
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-# <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px" height="30px"> Experiences <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# <img src="Assets/Images/blue-chart.gif" width="35px" height="30px"> Experiences <img src="Assets/Images/break-line.gif">
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo-Rikkei.png" width="50px"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_MISA.svg/1280px-Logo_MISA.svg.png" width="60px"> &nbsp; -->
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-# <img src="https://cip-network-rss.org/sites/default/files/2021-09/Globe_CIP_0.gif" width="34px" height="33px"> Contact <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# <img src="Assets/Images/earth.gif" width="34px" height="33px"> Contact <img src="Assets/Images/break-line.gif">
 
 [![Facebook](https://img.shields.io/badge/Facebook.com/nlnhat28-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nlnhat28)
 
