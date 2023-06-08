@@ -38,10 +38,10 @@
 
 # <img src="Assets/Images/earth.gif" width="34px" height="33px"> Contact <img src="Assets/Images/break-line.gif">
 
-[![Facebook](https://img.shields.io/badge/Facebook.com/nlnhat28-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nlnhat28)
+[![Facebook](https://img.shields.io/badge/Facebook.com/nlnhat28-0068c9?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nlnhat28)
 
 [![Gmail](https://img.shields.io/badge/nl.nhat28@gmail.com-bd0000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCKCBjtvwGvqLZhmbXgnhfWnmmksJpgLSrfVZNsJrgtQKJTbJbbJmnjjHhbKHHMRRjnWLNnq)
 
 [![Github](https://img.shields.io/badge/Github.com/nlnhat28-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nlnhat28/)
 
-[![Phone](https://img.shields.io/badge/0818627285-0077B5?style=for-the-badge&logo=zalo&logoColor=white)](tel:0818627285)
+[![Phone](https://img.shields.io/badge/0818627285-00a819?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0818627285)
