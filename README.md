@@ -1,8 +1,8 @@
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+everyone,...;I'm+Nguyen+Long+Nhat,...;I'm+a+Misa+Fresher,...;I'm+a+Web+05's+member!"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Nguyen+Long+Nhat;I'm+a+Misa+Fresher;I'm+a+Web05's+member!"></p>
 
 # <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" height="35px"> Overview <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-* <img src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="20px"> : I'm from Haiduong, Vietnam
+* <img src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="21px"> : I'm from Haiduong, Vietnam
 * 🎒 : Learning IT at [HUST](https://hust.edu.vn/) (2018-now)
 * ❤️ : Passionate about:
     - 💻 Web Development
