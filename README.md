@@ -20,9 +20,12 @@
 <img src="https://img.shields.io/badge/JavaScript-91007e?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-5202ad?logo=bootstrap&logoColor=white" title="Bootstrap" height="25"/> &nbsp;
 
-<img src="https://img.shields.io/badge/VS Code-0077cc?logo=windows&logoColor=white" title="Visual Studio Code" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Visual Studio-5d00ff?logo=windows&logoColor=white" title="Visual Studio" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Git-005e5a?logo=git&logoColor=ff3c00" title="Git" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Sql Server-bf0000?logo=microsoftsqlserver&logoColor=white" title="Sql Server" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/MySql-006fb0?logo=mysql&logoColor=ffd77a" title="MySql" height="25"/> &nbsp;
+
+<img src="https://img.shields.io/badge/VS Code-0077cc?logo=visualstudio&logoColor=white" title="Visual Studio Code" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Visual Studio-5d00ff?logo=visualstudio&logoColor=white" title="Visual Studio" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Git-00a819?logo=git&logoColor=white" title="Git" height="25"/> &nbsp;
 
 <br/>
 
