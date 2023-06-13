@@ -12,11 +12,11 @@
 <br/>
 
 # <img src="Assets/Images/bulb.gif" width="35px" height="35px"> Skills <img src="Assets/Images/break-line.gif">
-<img src="https://img.shields.io/badge/.NET-5d00ff?logo=csharp&logoColor=white" title="C# .NET" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/.NET-5d00ff?logo=csharp&logoColor=00ff22" title="C# .NET" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Django-256da8?logo=python&logoColor=f5e105" title="Python Django" height="25"/> &nbsp;
 
-<img src="https://img.shields.io/badge/Html-00630d?logo=html5&logoColor=eeff00" title="Html" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Css-0000ff?logo=css3&logoColor=ff4d00" title="Css" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Html-e03500?logo=html5&logoColor=white" title="Html" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Css-004cff?logo=css3&logoColor=white" title="Css" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-202020?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-5202ad?logo=bootstrap&logoColor=white" title="Bootstrap" height="25"/> &nbsp;
 
