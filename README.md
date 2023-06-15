@@ -3,12 +3,12 @@
 # <img src="Assets/Images/coding-animation.gif" width="35px" height="35px"> Overview <img src="Assets/Images/break-line.gif">
 
 * <img src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="21px"> : I'm from Haiduong, Vietnam
-* 🎒 : Learning IT at [HUST](https://hust.edu.vn/) (2018-now)
+* 🎒 : Learning IT at **<a style="color: red" href="https://hust.edu.vn/" target="_blank">HUST</a>** (2018-now)
 * ❤️ : Passionate about:
     - 💻 Web Development
     - 🎮 PES
     - 🎨 Graphic Design
-    
+
 <br/>
 
 # <img src="Assets/Images/bulb.gif" width="35px" height="35px"> Skills <img src="Assets/Images/break-line.gif">
@@ -33,9 +33,9 @@
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo-Rikkei.png" width="50px"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_MISA.svg/1280px-Logo_MISA.svg.png" width="60px"> &nbsp; -->
 
-* 06/2023 - present : [Misa JSC, Hanoi](https://www.misa.vn/) 
+* 06/2023 - present : **<a style="color: yellow" href="https://www.misa.vn/" target="_blank">Misa JSC, Hanoi</a>**
 
-* 08/2022 - 10/2022 : [Rikkeisoft, Hanoi](https://rikkeisoft.com/) 
+* 08/2022 - 10/2022 : **<a style="color: red" href="https://rikkeisoft.com/" target="_blank">Rikkeisoft, Hanoi</a>**
 
 <br/>
 
