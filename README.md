@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/badge/Html-00aa00?logo=html5&logoColor=white" title="Html" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Css-004cff?logo=css3&logoColor=white" title="Css" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-91007e?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
+
 <img src="https://img.shields.io/badge/Bootstrap-5202ad?logo=bootstrap&logoColor=white" title="Bootstrap" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/VueJS-333?logo=vuedotjs&logoColor=0v0" title="VueJS" height="25"/> &nbsp;
 
 <img src="https://img.shields.io/badge/Sql Server-bf0000?logo=microsoftsqlserver&logoColor=white" title="Sql Server" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/MySql-006fb0?logo=mysql&logoColor=ffd77a" title="MySql" height="25"/> &nbsp;
