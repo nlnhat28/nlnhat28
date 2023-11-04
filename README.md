@@ -1,4 +1,4 @@
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Nguyen+Long+Nhat;I'm+a+Misa+Fresher;I'm+a+Web05's+member!"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Nguyen+Long+Nhat;I'm+a+MISA+Developer;I'm+just+a+passerby!"></p>
 
 # <img src="Assets/Images/coding-animation.gif" width="35px" height="35px"> Overview <img src="Assets/Images/break-line.gif">
 
